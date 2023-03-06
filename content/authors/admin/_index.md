@@ -26,18 +26,15 @@ bio: ''
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:1191402895@qq.com'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/Daishunbo
-  - icon: zhihu
-    icon_pack: fab
-    link: https://www.zhihu.com/people/dai-shun-bo-78
   - icon: weibo
     icon_pack: fab
     link: https://m.weibo.cn/profile/2552867547
+  - icon: zhihu
+    icon_pack: fab
+    link: https://www.zhihu.com/people/dai-shun-bo-78
   - icon: bilibili
     icon_pack: fab
     link: https://space.bilibili.com/98536865/favlist
@@ -47,6 +44,9 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/Just-once
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:1191402895@qq.com'
   # Link to a PDF of your resume/CV from the About widget.
   # To enable, copy your resume/CV to `static/uploads/resume.pdf`
   - icon: file-pdf

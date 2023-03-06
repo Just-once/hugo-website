@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title: The Homepage of Just-Once 
+title: 
 date: 2023-03-06
 type: landing
 sections:
@@ -9,7 +9,7 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
       text: |-
-        👋 Hello, there! I'm **Just-Once**, a deep learning researcher at ECUST.
+        👋 Hello, I'm **Just-Once**, a deep learning researcher at ECUST.
         {style="font-size: 1.2rem; background: #FFB76B; background: linear-gradient(to right, #FFB76B 0%, #FFA73D 30%, #FF7C00 60%, #FF7F04 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
     design:
       background:
