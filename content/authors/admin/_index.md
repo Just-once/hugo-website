@@ -1,7 +1,7 @@
 ---
 # Display name
 title: 小小峰
-name_pronunciation: Just-once
+name_pronunciation: Just-Once
 
 # Is this the primary user of the site?
 superuser: true
@@ -38,7 +38,7 @@ social:
   - icon: weibo
     icon_pack: fab
     link: https://m.weibo.cn/profile/2552867547
-  - icon: blibli
+  - icon: bilibili
     icon_pack: fab
     link: https://space.bilibili.com/98536865/favlist
   - icon: orcid
