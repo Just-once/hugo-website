@@ -44,15 +44,15 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/Just-once
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:1191402895@qq.com'
   # Link to a PDF of your resume/CV from the About widget.
   # To enable, copy your resume/CV to `static/uploads/resume.pdf`
   - icon: file-pdf
     icon_pack: fas
     label: View Resume
     link: uploads/resume.pdf
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:1191402895@qq.com'
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 #email: ""
 ---
