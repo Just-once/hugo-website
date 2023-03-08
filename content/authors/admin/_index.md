@@ -1,7 +1,7 @@
 ---
 # Display name
 title: 小小峰
-name_pronunciation: Just-Once
+name_pronunciation: Just - Once
 
 # Is this the primary user of the site?
 superuser: true
@@ -26,9 +26,9 @@ bio: ''
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/Daishunbo
+  #- icon: twitter
+  #  icon_pack: fab
+  #  link: https://twitter.com/Daishunbo
   - icon: weibo
     icon_pack: fab
     link: https://m.weibo.cn/profile/2552867547
