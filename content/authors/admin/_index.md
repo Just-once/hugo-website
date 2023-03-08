@@ -41,12 +41,12 @@ social:
   - icon: orcid
     icon_pack: fab
     link: https://orcid.org/0000-0003-3431-1539
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/Just-once
   - icon: github-alt
     icon_pack: fab
     link: https://just-once.github.io/
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/Just-once
   # Link to a PDF of your resume/CV from the About widget.
   # To enable, copy your resume/CV to `static/uploads/resume.pdf`
   - icon: file-pdf
